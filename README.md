@@ -1,2 +1,1 @@
-# Slides
-Background slides with event summaries
+This repo is obsolete. It was used for the first meetup, then we switched to Google Slides. As of 2018, we're now using [Reveal.js](https://revealjs.com/), and our slides can be found in our [dotnetoxford-introslides](https://github.com/dotnetoxford/dotnetoxford-introslides) repository.
